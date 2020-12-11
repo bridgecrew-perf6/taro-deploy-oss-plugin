@@ -1,5 +1,11 @@
 # taro-deploy-oss-plugin
 
+
+
+## 前言
+此插件配置完毕,会将项目中 指定路径 path内文件上传到oss当中
+
+
 ## 使用
 
 1.安装ali-oss
